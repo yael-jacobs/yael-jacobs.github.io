@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Joshua A. Jacobs"
 title_separator          : "-"
-name                     : &Joshua A. Jacobs"
-description              : &description "Assistant Teaching Professor of Economics at the University of Washington"
+name                     : "Joshua A. Jacobs"
+description              : "Assistant Teaching Professor of Economics at the University of Washington"
 url                      : https://joshuaajacobs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshuaajacobs.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@joshuaajacobs"
+  twitter          : "joshuaajacobs"
   vine             :
   weibo            :
   xing             :
