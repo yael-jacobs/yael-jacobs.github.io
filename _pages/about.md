@@ -1,7 +1,7 @@
 ---
 permalink: /
-excerpt: "Joshua "
-title: "Joshua A. Jacobs is an Assistant Teaching Professor of Economics at the University of Washington"
+excerpt: "Joshua A. Jacobs is an Assistant Teaching Professor of Economics at the University of Washington"
+title: "Joshua A. Jacobs"
 author_profile: true
 redirect_from: 
   - /about/
