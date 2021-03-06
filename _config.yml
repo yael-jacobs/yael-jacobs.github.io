@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Joshua A. Jacobs"
   avatar           : "profile.jpg"
-  bio              : "Assistant Teaching Professor"
+  bio              : "Assistant Teaching Professor
+Department of Economics
+University of Washington"
   location         : "Seattle, Washington"
   employer         :
   pubmed           : 
@@ -178,13 +180,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+#  portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+#  talks:
     output: true
     permalink: /:collection/:path/
 
