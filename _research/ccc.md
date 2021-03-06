@@ -3,7 +3,7 @@ title: "Communities, Co-Ops, and Clubs: Social Capital and Incentives in Large C
 collection: research
 permalink: /research/ccc
 excerpt: with Aaron Kolb and Curtis Taylor
-date: 2021-03-05
+date: 
 venue: 'American Economic Journal: Microeconomics (Forthcoming)'
 paperurl: 
 citation: 
