@@ -1,6 +1,6 @@
 ---
 title: "Income-Share Agreements on the Job Market: Debt Versus Equity"
-excerpt: "Job Market Paper"
+excerpt: Job Market Paper
 collection: research
 permalink: /research/isa
 excerpt: 
