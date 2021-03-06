@@ -1,10 +1,10 @@
 ---
 title: "Income-Share Agreements on the Job Market: Debt Versus Equity"
-excerpt: 
+excerpt: ""
 collection: research
 permalink: /research/isa
 excerpt: 
-date: 
+date: 2020-03-05
 venue: 'Working Paper'
 paperurl: 
 citation: 
