@@ -4,7 +4,7 @@ collection: research
 permalink: /research/ccc
 excerpt: with Aaron Kolb and Curtis Taylor
 date: 2021-03-05
-venue: 'American Economic Journal: Microeconomics (Forthcoming)'
+venue: 'American Economic Journal: Microeconomics'
 paperurl: 
 citation: 
 ---
